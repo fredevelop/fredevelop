@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fredevelop
-- 👀 I’m interested in web development, Nuxt.js, PHP, WebGL, Node.js...
-- 🌱 I’m currently learning React/Next.js
+- 👀 I’m interested in web development, Nuxt.js, Next.js, Laravel, Symfony, PHP, WebGL, Node.js...
 - 📫 How to reach me : contact@fredericdevaux.com
 
 <!---
